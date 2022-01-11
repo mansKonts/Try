@@ -1,0 +1,10 @@
+E:\Dokumenti\RTV\C# projekti\Programma85\bin\Debug\Programma85.exe.config
+E:\Dokumenti\RTV\C# projekti\Programma85\bin\Debug\Programma85.exe
+E:\Dokumenti\RTV\C# projekti\Programma85\bin\Debug\Programma85.pdb
+E:\Dokumenti\RTV\C# projekti\Programma85\obj\Debug\Programma85.csprojAssemblyReference.cache
+E:\Dokumenti\RTV\C# projekti\Programma85\obj\Debug\Programma85.Form1.resources
+E:\Dokumenti\RTV\C# projekti\Programma85\obj\Debug\Programma85.Properties.Resources.resources
+E:\Dokumenti\RTV\C# projekti\Programma85\obj\Debug\Programma85.csproj.GenerateResource.cache
+E:\Dokumenti\RTV\C# projekti\Programma85\obj\Debug\Programma85.exe
+E:\Dokumenti\RTV\C# projekti\Programma85\obj\Debug\Programma85.pdb
+E:\Dokumenti\RTV\C# projekti\Programma85\obj\Debug\Programma85.csproj.CoreCompileInputs.cache
