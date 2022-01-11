@@ -40,6 +40,7 @@ namespace Programma85
 
         private void butParbaudit_Click(object sender, EventArgs e)
         {
+            //pogas Pārbaudīt kods
             txtAtbilde.Enabled = false;
             txtAtbilde.Text = txtAtbilde.Text.ToUpper();
             piemeri++;

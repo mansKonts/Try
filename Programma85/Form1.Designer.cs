@@ -50,7 +50,7 @@
             // labPilseta
             // 
             this.labPilseta.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(186)));
-            this.labPilseta.ForeColor = System.Drawing.Color.Maroon;
+            this.labPilseta.ForeColor = System.Drawing.Color.YellowGreen;
             this.labPilseta.Location = new System.Drawing.Point(57, 80);
             this.labPilseta.Name = "labPilseta";
             this.labPilseta.Size = new System.Drawing.Size(671, 73);

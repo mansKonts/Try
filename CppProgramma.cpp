@@ -1,3 +1,4 @@
+//trukst fails, kuru nolasit!!!
 #include <iostream>
 #include <fstream>
 using namespace std;
